@@ -1,0 +1,43 @@
+
+body {
+    background-color: #011f3f;
+    color: #fef2bf;
+    text-align: center;
+}
+
+h1 {
+    font-size: 2.6rem;
+}
+
+h2 {
+    font-size: 1.8rem;
+}
+
+button {
+    height: 200px;
+    width: 200px;
+    margin: 2%;
+    border: 7px solid;
+    border-radius: 20%;
+}
+
+.button-grid {
+
+}
+
+#green-button {
+    background-color: rgb(1, 154, 1);
+}
+
+#red-button {
+    background-color: rgb(246, 0, 0);
+}
+
+#yellow-button {
+    background-color: rgb(238, 251, 0);
+}
+
+#blue-button {
+    background-color: rgb(52, 45, 250);
+}
+
